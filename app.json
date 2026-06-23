@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "TENNsational",
+    "slug": "tennsational",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://tennsational.com/tennsationalapplogo.png",
+    "splash": {
+      "backgroundColor": "#1A3550"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "https://tennsational.com/tennsationalapplogo.png",
+        "backgroundColor": "#1A3550"
+      },
+      "package": "com.tennsational.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.tennsational.app"
+    }
+  }
+}
