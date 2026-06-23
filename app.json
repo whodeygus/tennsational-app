@@ -18,6 +18,11 @@
     },
     "ios": {
       "bundleIdentifier": "com.tennsational.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4f20711d-fa07-47a2-969a-f5805e91eccc"
+      }
     }
   }
 }
