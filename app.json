@@ -3,6 +3,7 @@
     "name": "TENNsational",
     "slug": "tennsational",
     "version": "1.0.0",
+    "owner": "whodeygus",
     "orientation": "portrait",
     "icon": "https://tennsational.com/tennsationalapplogo.png",
     "splash": {
