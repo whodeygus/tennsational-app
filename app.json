@@ -17,7 +17,7 @@
       "package": "com.tennsational.app",
       "config": {
         "googleMaps": {
-          "apiKey": "$GOOGLE_MAPS_API_KEY"
+          "apiKey": "AIzaSyAnRb6a_uIx1rxtr_YWMtwCzagVUOCG8s0"
         }
       }
     },
