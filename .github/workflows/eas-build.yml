@@ -27,3 +27,5 @@ jobs:
 
       - name: Build Android APK
         run: eas build --platform android --profile preview --non-interactive
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
