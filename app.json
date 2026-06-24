@@ -14,7 +14,12 @@
         "foregroundImage": "https://tennsational.com/tennsationalapplogo.png",
         "backgroundColor": "#1A3550"
       },
-      "package": "com.tennsational.app"
+      "package": "com.tennsational.app",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAnRb6a_uIx1rxtr_YWMtwCzagVUOCG8s0"
+        }
+      }
     },
     "ios": {
       "bundleIdentifier": "com.tennsational.app"
